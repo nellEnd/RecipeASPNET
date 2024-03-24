@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Receptbas_ASPNET.props" />
+</Project>

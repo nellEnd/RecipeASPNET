@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Receptbas_ASPNET.props" />
+</Project>
